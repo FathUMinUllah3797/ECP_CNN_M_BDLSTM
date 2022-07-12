@@ -58,6 +58,7 @@ MDPI Mathematics (2021).
 
 Feel free to contact me at: fath3797@gmail.com
 
-### Note
+# Notice
 
 The changes are made according to latest development in frameworks (tensorflow, keras, etc)
+Next, We are really sorry to have the raw code, but to ensure the availability of an easy and understandable code we need some time. Feel free to contact me at fath3797@gmail.com if you have any queries or you will be okay with raw format code. Thanks
