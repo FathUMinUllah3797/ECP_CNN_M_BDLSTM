@@ -8,7 +8,7 @@ https://ieeexplore.ieee.org/abstract/document/8945363
 
 Excessive Power Consumption (PC) and demand for power is increasing on a daily basis, due to advancements in technology, the rise in electricity-dependent machinery, and the growth of the human population. It has become necessary to predict PC in order to improve power management and co-operation between the energy used in a building and the power grid. State-of-the-art Energy Consumption Prediction (ECP) methods are limited in terms of predicting the energy effectively, due to various challenges such as weather conditions and the dynamic behaviour of occupants. Thus, to overcome the drawbacks of these methods, we present an intelligent hybrid technique that combines a Convolutional Neural Network (CNN) with a Multi-layer Bi-directional Long-short Term Memory (M-BDLSTM) method using three steps. When applied to short-term power ECP, this approach helps to provide efficient power management i.e. it can assist the supplier to produce the optimum amount of power. The first step in our proposed method integrates the pre-processing and data organisation mechanisms to refine the data and remove abnormalities. The second step employs a deep learning network, where the sequence of refined data is fed into the CNN via the M-BDLSTM network to learn the sequence pattern effectively. The third step generates the ECP/PC by comparing actual and predicted data series and evaluates the prediction using error metrics. The proposed method achieves better prediction results than existing techniques, thus demonstrating its effectiveness. Furthermore, it achieved the smallest value of the Mean Square Error (MSE) and Root Mean Square Error (RMSE) for individual household dataset using 10-fold Cross Validation (CV) and a hold-out (CV) method.
 
-Download dataset at: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption# (Thanks to [**demmojo et al.**](https://github.com/demmojo))
+Download dataset at: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption# 
 
 ***********************************************************************************************************************************************************************
 ### Statistics (According to 2018):
@@ -69,3 +69,13 @@ MDPI Mathematics (2021).
 
 The changes are made according to latest development in frameworks (tensorflow, keras, etc)
 Next, We are really sorry to have the raw code, but to ensure the availability of an easy and understandable code we need some time. Feel free to contact me at fath3797@gmail.com if you have any queries or you will be okay with raw format code. Thanks
+
+
+
+
+
+
+
+
+
+Thanks to [**demmojo et al.**](https://github.com/demmojo) and [**reference here**](https://keras.io/examples/timeseries/)
