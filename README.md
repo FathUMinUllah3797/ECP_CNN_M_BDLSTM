@@ -78,4 +78,4 @@ Next, We are really sorry to have the raw code, but to ensure the availability o
 
 
 
-Thanks to [**demmojo et al.**](https://github.com/demmojo) and [**reference here**](https://keras.io/examples/timeseries/)
+Thanks to [**reference here**](https://keras.io/examples/timeseries/) and [**demmojo et al.**](https://github.com/demmojo) 
