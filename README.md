@@ -45,7 +45,7 @@ Framework of the three steps of the proposed method. Step 1 is based on data acq
 Comparative analysis of the proposed method with state-of-the-art techniques on the basis of MSE and RMSE except BPTT where only RMSE is calculated.
 
 
-### If you take help of this code or use it, Please cite the following papers.
+# Citation
 
 #### IEEE Access; 2019
 Fath U Min Ullah et al. [**"Short-Term Prediction of Residential Power Energy Consumption via CNN and Multi-Layer Bi-Directional LSTM Networks.**](https://ieeexplore.ieee.org/abstract/document/8945363) 
@@ -58,7 +58,7 @@ MDPI Mathematics (2021).
 
 Feel free to contact me at: fath3797@gmail.com
 
-# Notice
+# Notice (Contact Me)
 
 The changes are made according to latest development in frameworks (tensorflow, keras, etc)
 Next, We are really sorry to have the raw code, but to ensure the availability of an easy and understandable code we need some time. Feel free to contact me at fath3797@gmail.com if you have any queries or you will be okay with raw format code. Thanks
