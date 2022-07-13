@@ -1,4 +1,4 @@
-# Short-Term Prediction of Residential Power Energy Consumption via CNN and Multi-Layer Bi-Directional LSTM Networks
+# Short-Term Prediction of Residential Power Energy Consumption via CNN and Multi-Layer Bi-Directional LSTM Networks (IEEE Access, 2019)
 
 # Paper
 
